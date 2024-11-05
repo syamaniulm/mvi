@@ -9,6 +9,6 @@ Mangrove monitoring using multitemporal Sentinel-2 MSI surface reflectance and M
 
 Baloloy, A.B., Blanco, A.C., Ana, R.R.C.S., Nadaoka, K., 2020, Development and application of a new mangrove vegetation index (MVI) for rapid and accurate mangrove mapping, ISPRS Journal of Photogrammetry and Remote Sensing, Vol. 166, pp. 95-117. https://doi.org/10.1016/j.isprsjprs.2020.06.001.
 
-### Requirement:
+### Requirements:
 
 You must have a Google Earth Engine account to run this code.
