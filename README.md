@@ -3,7 +3,7 @@
 </a>
 
 # Mangrove Monitoring Project
-Mangrove monitoring using Sentinel-2 MSI surface reflectance and Mangrove Vegetation Index (MVI).
+Mangrove monitoring using multitemporal Sentinel-2 MSI surface reflectance and Mangrove Vegetation Index (MVI).
 
 ### Mangrove Vegetation Index (MVI) citation:
 
