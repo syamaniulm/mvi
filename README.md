@@ -3,7 +3,7 @@
 </a>
 
 # Mangrove Monitoring Project
-Mangrove monitoring using multitemporal Sentinel-2 MSI surface reflectance and Mangrove Vegetation Index (MVI).
+Mangrove monitoring using multitemporal Sentinel-2 MSI surface reflectance and Mangrove Vegetation Index (MVI). These codes are intended to be run in Google Colab environment. So you need to provide a shapefile in Geographic Coordinate Systems (GCS) format in your Google Drive. If the codes are executed in JupyterLab environment, then there will be some modifications to the codes.
 
 ### Mangrove Vegetation Index (MVI) citation:
 
